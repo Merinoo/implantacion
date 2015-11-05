@@ -18,4 +18,4 @@ Y crear un programa PHP embebido en HTML que te muestre una tabla donde cada una
 
 3.Dado el siguiente array (‘roberto’,’juan’,’marta’,’moria’,’martin’,’jorge’,’miriam’,’nahuel’,’mirta’). Realizar un programa en PHP que lo recorra y genere un nuevo array con aquellos nombres que comiencen con la letra m.Nota:Deberéis buscar una función en la lista de funciones relacionadas con cadena.
 
-4. Dado un array enumerativo de 10 elementos de números enteros (sin coma decimal), encontrar el máximo de todos esos números usando una estructura iterativa(bucle) y mostrarlo por pantalla.
+4.Dado un array enumerativo de 10 elementos de números enteros (sin coma decimal), encontrar el máximo de todos esos números usando una estructura iterativa(bucle) y mostrarlo por pantalla.
