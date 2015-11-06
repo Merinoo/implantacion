@@ -16,7 +16,7 @@ En el fichero perfil.php se mostará el perfil de cada alumno (dependiendo de en
 
 El perfil deberá ser similar a la siguiente imagen:
 
-
+![Image of Yaktocat] (screenInviteTab2.jpg)
 
 NOTA: Los datos de los siguiente alumnos deberán estar almacenados en un array de arrays. De tal manera que el elemento 0 de ese array contendrá un array asociativo con los datos del alumno con id 0.
 
